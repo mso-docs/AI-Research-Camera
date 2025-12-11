@@ -1,0 +1,5 @@
+{
+  "name": "AI Research Camera",
+  "description": "A research-grade image analysis tool powered by Gemini 3 Pro. Upload an image, select a mode and audience, and get structured, expert insights.",
+  "requestFramePermissions": []
+}
