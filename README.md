@@ -2,6 +2,8 @@
 
 A research-grade image analysis tool powered by Google's **Gemini 3 Pro** model. This application allows users to upload images, select specific analysis modes and target audiences, and receive structured, expert insights ranging from simple explanations to academic research comparisons.
 
+##Demo Link Coming Soon!
+
 ## ✨ Features
 
 - **📸 Multimodal Analysis**: Upload a single image for deep analysis or **Compare** two images side-by-side to find differences and similarities.
